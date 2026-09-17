@@ -4,7 +4,7 @@ He creado un Homelab de ciberseguridad orientado a Blue Team, construido en Prox
 
 ***El proyecto está diseñado para ser escalable*** 
 
-Actualmente, hoy cubre **detección y triage** básico orientado a un rol de SOC Analyst N1, con una arquitectura pensada para tener experiencia lo más cercana posible a un entorno real (case management, threat intelligence, más escenarios de emulación) para entender como funcionan los servicios utilizados, su despliegue, su accionar, a fines de poder observar y emular casos concretos.
+Actualmente el proyecto abarca **detección y triage** básico orientado a un rol de SOC Analyst N1, con una arquitectura pensada para tener experiencia lo más cercana posible a un entorno real (case management, threat intelligence, más escenarios de emulación) para entender como funcionan los servicios utilizados, su despliegue, su accionar, a fines de poder observar y emular casos concretos.
 
 A medida que avanzo en mi carrera, el objetivo es seguir con el desarrollo del proyecto ampliando su scope (alcance).
 
