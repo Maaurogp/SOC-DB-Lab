@@ -1,4 +1,4 @@
-# Homelab SOC — Detección y Threat Hunting en Active Directory
+# SOC-DB-Lab — Detección y Threat Hunting en Active Directory
 
 He creado un Homelab de ciberseguridad orientado a Blue Team, construido en Proxmox VE con segmentación de red por VLANs (pfSense), un SIEM (Wazuh + Sysmon) y ejercicios de emulación de adversario (CALDERA) contra un Active Directory real on-premise.
 
